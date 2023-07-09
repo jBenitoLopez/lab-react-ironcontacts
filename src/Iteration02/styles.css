@@ -1,0 +1,11 @@
+.table {
+  justify-content: space-evenly;
+}
+tbody > tr > td {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.icon-size{
+  width: 64px;
+}

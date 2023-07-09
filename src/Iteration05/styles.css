@@ -1,0 +1,24 @@
+.table {
+  justify-content: space-evenly;
+}
+tbody > tr > td {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.icon-size{
+  width: 64px;
+}
+
+.button {
+  background-color: lightgrey; 
+  border: 1px black solid;
+  color: black;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}

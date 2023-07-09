@@ -43,3 +43,17 @@
 img {
   height: 128px;
 }
+
+button {
+  cursor: pointer;
+}
+button:hover {
+  border: 1px  rgb(212, 5, 5) solid;
+  color: rgba(224, 4, 4, 0.795);
+  background-color: rgba(255, 0, 0, 0.05);
+}
+
+.botonera {
+  display: flex;
+  justify-content: space-evenly;
+}
